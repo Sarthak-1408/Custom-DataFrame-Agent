@@ -1,0 +1,6 @@
+pandas
+langchain
+langchain-experiment
+langchain-community
+langchain-core
+langchain-anthropic
